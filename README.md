@@ -1,4 +1,4 @@
-# Apollo-jvm Fat/Uber jar
+# Apollo-Jvm Fat/Uber jar
 
 ## Includes
 - Apollo 3.6.2 (api, runtime)
